@@ -1,4 +1,6 @@
 ﻿# Notas de aula referentes ao curso git e github da potencia feminina
+ 
+ ## Repositório do Curso ministrado para o projeto potencia feminina( rede mulher empreeendedora e Womakers Code)
 
 ### Nota 1 - criando o repositório local e remoto
 ### Nota 2 - nesta aula estamos aprendendo os comandos 
