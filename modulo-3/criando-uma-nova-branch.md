@@ -5,3 +5,8 @@
 
 **Criar branch e alternar o uso delas**
 - criar branch: git checkout -b [modulo-3 {nome da nova branch}]
+
+**retornar a branch**
+- git checkout [nome da branch]
+
+
