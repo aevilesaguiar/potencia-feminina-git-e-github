@@ -13,7 +13,7 @@
 [  Colaborando com projetos de outras pessoas](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo4/aula1.md)
 <br>
 ## Módulo 5 
-[Conhecendo o github project](/guides/content/editing-an-existing-page)
+[Conhecendo o github project](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo5/aula.md)
 <br>
 ## Módulo 6 
-[Revisão e Dicas](/guides/content/editing-an-existing-page)
+[Revisão e Dicas](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo6/dicas.md)
