@@ -1,7 +1,9 @@
-1. Você sabe a diferença entre git e GitHub?
+# Dicas importantes
+
+** Você sabe a diferença entre git e GitHub?**
 Git é o software de controle de versão, GitHub é uma plataforma para hospedar projetos que usam git. Fora o GitHub existem outras soluções como BitBucket e GitLab, e por ser open source você pode ter seu próprio servidor de git.
 
-2. Como saber o que você fez?
+** Como saber o que você fez?**
 git reflog
 
 Esse comando fornecerá um histórico completo do que você fez.
