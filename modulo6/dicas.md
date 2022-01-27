@@ -97,3 +97,7 @@ Ao invés de dar git add . e vez ou outra subir o que não deve, use git add -u 
 
 20. Use git stash pra guardar temporariamente os arquivos modificados que ainda não foram commitados.
 Útil quando precisa trocar de branch, por ex: testar o código sem suas mudanças, ou testar em outra branch. Pra “pegar” as mudanças de volta git stash pop.
+
+### Referencias
+
+https://cantinhobinario.com/2021/03/28/20-dicas-poderosas-de-git-e-github-para-organizar-sua-vida/
