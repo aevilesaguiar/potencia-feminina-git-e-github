@@ -1,7 +1,7 @@
 ﻿# Notas de aula referente ao curso git e github da potencia feminina e WomakersCode
 
 ## Modulo 1 
-[Conceitos Iniciais](/guides/content/editing-an-existing-page)
+[Conceitos Iniciais](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo1/aula1-notas-de-aula.md)
 <br>
 ## Modulo 2 
 [ Criando seu primeiro repositório e apresendendo comandos mais utilizados](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo2/aula1.md)
