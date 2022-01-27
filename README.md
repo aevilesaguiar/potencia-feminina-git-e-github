@@ -18,6 +18,12 @@
 ## Módulo 6 
 [Revisão e Dicas](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo6/dicas.md)
 
+
+## O fork eu fiz 
+https://github.com/aevilesaguiar/potencia-feminina-git-e-github-1
+https://github.com/aevilesaguiar/potencia-feminina-git-e-github-1/blob/master/pull%20request%20alunas.md
+
+
 ## Referencias
 
 https://potenciafeminina.myedools.com/enrollments/6612582/courses/48734
