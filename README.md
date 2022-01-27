@@ -17,3 +17,15 @@
 <br>
 ## Módulo 6 
 [Revisão e Dicas](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo6/dicas.md)
+
+## Referencias
+
+https://potenciafeminina.myedools.com/enrollments/6612582/courses/48734
+
+https://git-scm.com/doc
+
+https://docs.github.com/pt/pages
+
+https://cantinhobinario.com/2021/03/28/20-dicas-poderosas-de-git-e-github-para-organizar-sua-vida/
+
+
