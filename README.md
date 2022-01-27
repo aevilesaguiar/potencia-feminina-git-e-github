@@ -4,7 +4,7 @@
 [Conceitos Iniciais](/guides/content/editing-an-existing-page)
 <br>
 ## Modulo 2 
-[ Criando seu primeiro repositório e apresendendo comandos mais utilizados](/guides/content/editing-an-existing-page)
+[ Criando seu primeiro repositório e apresendendo comandos mais utilizados](https://github.com/aevilesaguiar/potencia-feminina-git-e-github/blob/main/modulo2/aula1.md)
 <br>
 ## Módulo 3
 [ Trabalhando com branchs](/guides/content/editing-an-existing-page)
