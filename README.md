@@ -25,6 +25,18 @@ https://github.com/aevilesaguiar/potencia-feminina-git-e-github-1
 https://github.com/aevilesaguiar/potencia-feminina-git-e-github-1/blob/master/pull%20request%20alunas.md
 
 
+
+## Comentários Mentoria
+
+- Rollback desfazer uma mudança que vc fez
+
+- Padrões de rollback 
+- usando o comando revert que cria um novo commit que foi feito no commit anterior. Cria uma nova alteração em coma do que já foi feito. 
+- Padrões de mensagem de commit - depende de contextos. Commit em Ingles, mensagem de commit não passar de 80 caracteres. Separar o commit por unidade atomica, ou seja ex: fix type, se baseio no commit para fazer determinadas coisas. No corpo do commit eu incluo o motivo de fazê-lo. Sempre tento atrelar a uma issue.
+- - Extensão do  git para facilitar os comitts  :commitizen
+- 
+
+
 ## Referencias
 
 https://potenciafeminina.myedools.com/enrollments/6612582/courses/48734
